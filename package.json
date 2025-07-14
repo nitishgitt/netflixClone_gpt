@@ -2,5 +2,8 @@
   "dependencies": {
     "@tailwindcss/vite": "^4.1.11",
     "tailwindcss": "^4.1.11"
+  },
+  "devDependencies": {
+    "react-router-dom": "^7.6.3"
   }
 }
