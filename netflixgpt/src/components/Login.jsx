@@ -56,6 +56,7 @@ const Login = () => {
       const auth = getAuth();
       signInWithEmailAndPassword(
         auth,
+        
         email.current.value,
         password.current.value,
       )
